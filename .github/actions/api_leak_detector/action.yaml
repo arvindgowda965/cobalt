@@ -1,6 +1,5 @@
 name: Run API Leak Detector
 description: Runs the API leak detector
-
 runs:
   using: "composite"
   steps:
